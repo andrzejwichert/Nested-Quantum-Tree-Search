@@ -10,4 +10,4 @@ The software runs with qiskit 2.2. If you have an older version
 
 and get an error at result=simulator.run(qc.decompose().decompose(),shots=10000).result() 
 
-just add another decompose(), if still the error is present, add another decompose() repeat till error disapears.
+just add another decompose(), if still the error is present, add another decompose() repeat till error disappears.
